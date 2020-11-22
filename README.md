@@ -1,2 +1,2 @@
 # dijkstra2
-Forked version of RyanCarrier/dijkstra
+Slightly modified clone of [ryancarrier/dijkstra](https://github.com/ryancarrier/dijkstra) to suit my needs
